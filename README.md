@@ -1,32 +1,36 @@
-<h1 align="center">Hi 👋, I'm Ananay Dubey</h1>
-<h4 align="center">A frontend developer from India</h4>
+<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h4 align="center">I'm Ananay Dubey, a web developer from India</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fts18&label=Profile%20views&color=0e75b6&style=flat" alt="fts18" /> </p>
-<p align="left"> <a href="https://twitter.com/spacify18" target="blank"><img src="https://img.shields.io/twitter/follow/spacify18?logo=twitter&style=for-the-badge" alt="spacify18" /></a> </p>
+<p align="center"> 
+    <a href="https://www.linkedin.com/in/ananaydubey">
+        <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>  
+    <a href="https://twitter.com/spacify18" target="blank">
+        <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter">
+    </a>
+    <a href="https://leetcode.com/ananaydubey/">
+        <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode" alt="LeetCode">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=fts18&label=Profile%20views&color=000000&style=for-the-badge" alt="fts18" /> 
+</p>
+<br>
 
 - 🔭 I’m currently working on [my Portfolio website](https://github.com/FTS18/Portfolio)
-
-- 🌱 I’m currently learning **Python, JS, Java, PHP**
-
+- 🌱 I’m currently learning **Python, JS, PHP**
 - 👨‍💻 All of my projects are available at [https://portfolio-ananay.netlify.app/](https://portfolio-ananay.netlify.app/)
-
 - 📫 How to reach me **spaciffy1807@gmail.com**
 
-<!--<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/spacify18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="spacify" height="30" width="40" /></a>
-<a href="https://twitter.com/spacify18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spacify18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ananaydubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananaydubey" height="30" width="40" /></a>
-<a href="https://instagram.com/spacify18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spacify18" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/spacify18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spacify18" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>-->
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/fts18)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/fts18)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/fts18)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fts18&show_icons=true&locale=en&layout=compact" alt="fts18" /></p>
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fts18&show_icons=true&locale=en" alt="fts18" /></p>
+### Technologies & Frameworks
+[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/fts18)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/fts18)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/fts18)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fts18&" alt="fts18" /></p>
--->
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fts18&show_icons=true&locale=en&layout=compact&style=flat-square" alt="fts18" /></p>
