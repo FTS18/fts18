@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [my Portfolio website](https://github.com/FTS18/Portfolio)
 - 🌱 I’m currently learning **Python, JS, PHP**
-- 👨‍💻 All of my projects are available at [https://portfolio-ananay.netlify.app/](https://portfolio-ananay.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-ananay.netlify.app/](https://ananay.netlify.app/)
 - 📫 How to reach me **spaciffy1807@gmail.com**
 
 </p>
