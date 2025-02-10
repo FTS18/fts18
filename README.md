@@ -33,7 +33,10 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/fts18)
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fts18&show_icons=true&locale=en&layout=donut-vertical&style=flat-square" alt="fts18" /></p>
+<p>
+ <a href="https://github.com/fts18/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fts18&layout=compact&langs_count=8&card_width=320" />
+</a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fts18&show_icons=true&locale=en&layout=donut-vertical&style=flat-square" alt="fts18" /></p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=fts18&show_icons=true&theme=dark"
