@@ -33,4 +33,4 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/fts18)
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fts18&show_icons=true&locale=en&layout=compact&style=flat-square" alt="fts18" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fts18&show_icons=true&locale=en&layout=donut&style=flat-square" alt="fts18" /></p>
