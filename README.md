@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="pattern.png" style="max-width: 100%; height: auto;">
+     <image href="pattern.png" width="100%"/>
 </div>
-
 <h1 align="center">Hi, guys! 👋😉</h1>
 <h4 align="center">I'm Ananay Dubey, a web developer from India</h4>
 
