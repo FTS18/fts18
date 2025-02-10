@@ -28,7 +28,7 @@
 🔭 I’m currently working on <a href="https://github.com/FTS18/projectjee" target="_blank">Project J</a> <br>
 🌱 I’m currently learning <strong>Python, JS, React</strong> <br>
 👨‍💻 Checkout my Portfolio <a href="https://ananay.netlify.app/" target="_blank">here</a> <br>
-📫 Reach me out at <a href="mailto:spacify1807@gmail.com">here</a> <br>
+📫 Reach me out <a href="mailto:spacify1807@gmail.com">here</a> <br>
 </p>
 </div>
 
