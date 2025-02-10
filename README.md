@@ -1,5 +1,5 @@
-<div align="center">
-     <image href="pattern.png" width="100%"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="pattern.png" style="max-width: 100%; height: auto;">
 </div>
 <h1 align="center">Hi, guys! 👋😉</h1>
 <h4 align="center">I'm Ananay Dubey, a web developer from India</h4>
