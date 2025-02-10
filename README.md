@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="pattern.png" width="100%" height="180px">
+  <img src="pattern.png" width="100%" height="150px">
 </div>
 
 <h1 align="center">Hi, guys! 👋😉</h1>
