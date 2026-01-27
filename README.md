@@ -68,8 +68,14 @@
 <a href="https://github.com/fts18">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fts18&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
+</p><p align="center">
+  <img src="https://leetcard.jacoblin.cool/ananaydubey?theme=dark&border=0&radius=20" />
 </p>
   <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=fts18&theme=dark&hide_border=true&background=dark"
+      media="(prefers-color-scheme: dark)"
+      />
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=fts18&card_width=320&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
