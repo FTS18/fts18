@@ -75,7 +75,7 @@
     <source
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=fts18&theme=dark&hide_border=true&background=dark"
       media="(prefers-color-scheme: dark)"
-      />
+      /></picture><picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=fts18&card_width=320&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
