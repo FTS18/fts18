@@ -19,41 +19,71 @@
 
 <hr>
 
-<div align="center">
-  
 ### ABOUT ME
 
-<p align="center">
-🔭 I’m currently working on <a href="https://github.com/FTS18/projectjee" target="_blank">Project J</a> <br>
-🌱 I’m currently learning <strong>Python, JS, React</strong> <br>
-👨‍💻 Checkout my Portfolio <a href="https://ananay.netlify.app/" target="_blank">here</a> <br>
-📫 Reach me out <a href="mailto:spacify1807@gmail.com">here</a> <br>
-</p>
-</div>
+Full-stack web developer focused on building scalable, production-ready applications and developer-focused tools, primarily using modern JavaScript ecosystems and backend systems. Focused on building systems with real-world impact rather than isolated features or basic CRUD applications.
+
+Currently building the [PEC App](https://github.com/PECAPP/PEC), focused on solving real college-level student problems through a centralized and scalable platform. Also developing [L-Amigo](https://chromewebstore.google.com/detail/lamigo-leetcode-friend-tr/pakknkopmiakipmbjmfejcejehmgieli), a LeetCode companion Chrome extension designed to streamline problem-solving by adding structure, tracking, and contextual insights during practice. I'll working on building tools for VS Code too. Focused on improving developer productivity.
+
+Exploring machine learning and working towards building systems that go beyond simple wrappers into more meaningful, ML-driven applications. Interested in collaborating on well-structured, impactful projects involving real engineering challenges.
+
+Continuously improving in Python, JavaScript, React, and system design.
+
+Portfolio: https://ananay.netlify.app/ <br>
+Contact: [spacify1807@gmail.com](mailto:spacify1807@gmail.com)
 
 <hr>
 
-<div align="center">
+### FOCUS
 
+- Developer tools and productivity systems  
+- Scalable full-stack applications  
+- Real-world problem solving over CRUD projects
+  
 ### SKILLS
-
-<div align="center">
   
 <table>
   <tr>
-    <td><a href="https://github.com/fts18"><img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5"></a></td>
-    <td><a href="https://github.com/fts18"><img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3"></a></td>
-    <td><a href="https://github.com/fts18"><img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="JavaScript"></a></td>
+    <td><img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5"/></td>
+    <td><img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3"/></td>
+    <td><img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript"/></td>
+    <td><img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript"/></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/fts18"><img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python"></a></td>
-    <td><a href="https://github.com/fts18"><img src="https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase" alt="Firebase"></a></td>
-    <td><a href="https://github.com/fts18"><img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql" alt="SQL"></a></td>
+    <td><img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react"/></td>
+    <td><img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js"/></td>
+    <td><img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js"/></td>
+    <td><img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express"/></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/fts18"><img src="https://img.shields.io/badge/android-black?style=for-the-badge&logo=android" alt="Android"></a></td>
-    <td><a href="https://github.com/fts18"><img src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"></a></td>
-    <td><a href="https://github.com/fts18"><img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask" alt="Flask"></a></td>
+    <td><img src="https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs"/></td>
+    <td><img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python"/></td>
+    <td><img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django"/></td>
+    <td><img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi"/></td>
+    <td><img src="https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma"/></td>
+    <td><img src="https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase"/></td>
+    <td><img src="https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql"/></td>
+    <td><img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb"/></td>
+    <td><img src="https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis"/></td>
+    <td><img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker"/></td>
+    <td><img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git"/></td>
+    <td><img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"/></td>
+    <td><img src="https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel"/></td>
+    <td><img src="https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify"/></td>
+    <td><img src="https://img.shields.io/badge/android-black?style=for-the-badge&logo=android"/></td>
+    <td><img src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash"/></td>
   </tr>
 </table>
 
@@ -61,29 +91,23 @@
 
 <hr>
 
-<div align="center">
-  
 ### STATS
-<p align="center">
-<a href="https://github.com/fts18">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fts18&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
-</p><p align="center">
-  <img src="https://leetcard.jacoblin.cool/ananaydubey?theme=dark&border=0&radius=20" />
-</p>
-  <picture>
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=fts18&theme=dark&hide_border=true&background=dark"
-      media="(prefers-color-scheme: dark)"
-      /></picture><picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=fts18&card_width=320&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=fts18&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=fts18&show_icons=true" />
-  </picture>
-</div>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://leetcard.jacoblin.cool/ananaydubey?theme=dark&border=0&radius=20"/>
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=fts18&theme=dark&hide_border=true"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fts18&theme=github_dark"/>
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fts18&theme=github_dark"/>
+    </td>
+  </tr>
+</table>
